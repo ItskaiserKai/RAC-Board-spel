@@ -1,2 +1,2 @@
-# RAC-Board-spel
-Spel maken voor RAC cursus
+# Hoedjes Jagen Digitalisering
+
